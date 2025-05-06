@@ -1,0 +1,3 @@
+My first git file
+another one
+a third one
