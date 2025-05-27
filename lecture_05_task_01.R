@@ -1,7 +1,7 @@
 library("tidyverse")
 
 product_ranks <- read_csv(
-  file = "data/Dataset_stwd_0415.csv", # my data file
+  file = "Dataset_stwd_0415.csv", # my data file
   col_names = TRUE,
   col_types = "cddddd" # keep numbers instead of categories/factors for now
 )
